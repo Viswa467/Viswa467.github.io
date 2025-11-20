@@ -106,8 +106,7 @@ p {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 10px; /* smaller gap between boxes */
-  margin-top: 5px; /* bring boxes closer to heading */
+  gap: 10px;
 }
 
 .skills-container div {
